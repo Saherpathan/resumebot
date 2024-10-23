@@ -56,6 +56,8 @@ Here's a quick demonstration of how the Resume Chatbot works:
 
    ![image](https://github.com/user-attachments/assets/aae46092-8e52-444b-98a4-cbe439154fb6)
    ![image](https://github.com/user-attachments/assets/c2adaaf3-885a-432c-be86-168f947e9037)
+   ![image](https://github.com/user-attachments/assets/33d4028a-d69b-4110-a4c2-8d65e7baa1ba)
+
 
 
 The screenshots above illustrate the main functionalities of the Resume Chatbot, showcasing the user-friendly interface and the interaction flow.
