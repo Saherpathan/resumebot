@@ -45,6 +45,9 @@ streamlit run pdfparser.py
 
 ## Demo 🎥
 
+Demo video:
+[streamlit-pdfparse-2024-10-24-00-10-87.webm](https://github.com/user-attachments/assets/de46681a-f181-400d-93e5-fd746c885bcc)
+
 Here's a quick demonstration of how the Resume Chatbot works:
 
 1. **Upload your Resume**: The chatbot allows candidate to upload resume in PDF format.
